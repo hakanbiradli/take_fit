@@ -16,36 +16,35 @@ Sensor kütüphaneleri(sensor_plus)
 gemini kütüphanesi
 Bazı gerekli ui kütüphaneleri (chat bubbles,gap,dynamic_themes …)
 
-![1](https://github.com/hakanbiradli/take_fit/assets/127381265/65de5b41-c513-460e-8867-618114337e96)
+![1](https://github.com/hakanbiradli/take_fit/assets/127381265/adfd10f3-dbd8-4149-8e36-6c9b889c46a5)
 
-![2](https://github.com/hakanbiradli/take_fit/assets/127381265/525b7944-0273-4eac-8617-165ad800ec8a)
+![2](https://github.com/hakanbiradli/take_fit/assets/127381265/9344ffda-3885-4f36-b9f8-1ef0b676f131)
 
-![3](https://github.com/hakanbiradli/take_fit/assets/127381265/69b00730-7983-44ea-a586-d4f053e4b4f4)
+![3](https://github.com/hakanbiradli/take_fit/assets/127381265/fe6c6f25-8af0-4ba0-8696-0bb92dc4f58d)
 
-![4](https://github.com/hakanbiradli/take_fit/assets/127381265/6863a525-899d-427a-8a51-fd6b45d38b0f)
+![4](https://github.com/hakanbiradli/take_fit/assets/127381265/033c3efe-11c2-4252-bbb2-9f293dd34c87)
 
-![5](https://github.com/hakanbiradli/take_fit/assets/127381265/03d28cd2-fbec-46ce-8d4b-8aa46eaa3a36)
+![5](https://github.com/hakanbiradli/take_fit/assets/127381265/7198d40b-6519-479c-83a3-4988fd25624c)
 
-![6](https://github.com/hakanbiradli/take_fit/assets/127381265/6eca9335-edfa-4c80-acc0-49cd67a5c567)
+![6](https://github.com/hakanbiradli/take_fit/assets/127381265/610b3f2c-3160-49f1-bfb3-695bf050eecc)
 
-![7](https://github.com/hakanbiradli/take_fit/assets/127381265/f2d3b025-ab41-4658-99a6-eb634d42f9fc)
+![7](https://github.com/hakanbiradli/take_fit/assets/127381265/e85801ac-7ad0-4638-91de-58a91893c688)
 
-![8](https://github.com/hakanbiradli/take_fit/assets/127381265/34ac355f-ad38-488f-a20a-f1d00f8c20c9)
+![8](https://github.com/hakanbiradli/take_fit/assets/127381265/26967ed2-49c0-49bc-afae-b6744912bf31)
 
-![9](https://github.com/hakanbiradli/take_fit/assets/127381265/234baae4-66c6-4586-a360-19e084c5e6b9)
+![9](https://github.com/hakanbiradli/take_fit/assets/127381265/5ed37905-bb10-42f2-93ff-74630eae329b)
 
-![10](https://github.com/hakanbiradli/take_fit/assets/127381265/b579e272-6cfc-494a-b2df-e148c900f337)
+![10](https://github.com/hakanbiradli/take_fit/assets/127381265/36804f50-9c4b-432e-a5a6-5df9bf182e7a)
 
-![11](https://github.com/hakanbiradli/take_fit/assets/127381265/06d567ea-ea03-42b1-8b3e-6afc3ed91260)
+![11](https://github.com/hakanbiradli/take_fit/assets/127381265/1aa4dff8-cb8f-49db-87a5-0a8c94970368)
 
-![12](https://github.com/hakanbiradli/take_fit/assets/127381265/66516b60-35da-42d2-94e5-5c981f2a2921)
+![12](https://github.com/hakanbiradli/take_fit/assets/127381265/0549f065-ceb7-40a2-96fe-20a5ac902f0d)
 
-![13](https://github.com/hakanbiradli/take_fit/assets/127381265/82c2fff7-6eb2-4b2f-a4d2-8c32d5ee29ce)
+![13](https://github.com/hakanbiradli/take_fit/assets/127381265/a282a279-ea41-46b6-8f69-d2ce8e9e4cfe)
 
-![14](https://github.com/hakanbiradli/take_fit/assets/127381265/5c8d17d6-1fc4-4842-86f5-6058b4bcddb4)
+![14](https://github.com/hakanbiradli/take_fit/assets/127381265/6331d48d-9173-4aeb-8a6d-15158301663f)
 
-![15](https://github.com/hakanbiradli/take_fit/assets/127381265/086d49ad-2571-4d6e-a064-a379840fcead)
+![15](https://github.com/hakanbiradli/take_fit/assets/127381265/a5abbe6b-110c-4a35-bdb0-631d2a582e13)
 
-![16](https://github.com/hakanbiradli/take_fit/assets/127381265/4c82ba53-f54a-4636-b6c4-f5a8830d8b27)
 
 
